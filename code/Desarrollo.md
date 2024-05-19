@@ -4,7 +4,7 @@ title: Desarrollo
 description: Desarrollo del juego
 ---
 
-<h1>Desarrollo de Fallout 4</h2>
+<h1>Desarrollo de Fallout 4</h1>
 <p class="text-just">"Fallout 4", el cuarto título principal de la icónica serie de juegos de rol de Bethesda Game Studios, es una obra maestra que lleva a los jugadores a un viaje inolvidable a través de un mundo post-apocalíptico lleno de peligros, misterios y decisiones morales complejas. Pero detrás de esta experiencia épica hay un proceso de desarrollo igualmente fascinante que abarcó varios años y contó con el arduo trabajo de un talentoso equipo de desarrolladores.</p>
 
 <h3 class="">Inicio de todo</h3>
