@@ -1,0 +1,62 @@
+---
+layout: layout-post.njk
+title: Historia
+description: Historia dentro del juego
+---
+
+# {{ title }}
+<p class="text-just">
+"Fallout 4" se desarrolla en un Estados Unidos alternativo, donde la Guerra Fría escaló hasta un punto crítico en 2077, resultando en una guerra nuclear total que devastó el mundo conocido. Los supervivientes buscaron su slavación en los Vault-Tec Vaults, refugios subterráneos diseñados para proteger a la población del holocausto nuclear. El jugador asume el papel del Único Superviviente, el protagonista que emerge del Vault 111 después de haber sido criogenizado durante más de dos siglos.
+</p>
+<p class="text-just">
+A medida que el Único Superviviente se adentra en el mundo post-nuclear, se enfrenta a una serie de dilemas éticos y morales. La cuestión de la identidad y la humanidad de los sintéticos es especialmente prominente, planteando preguntas sobre la naturaleza del ser y la responsabilidad moral hacia las creaciones artificiales.
+</p>
+
+<div id="carouselExampleAutoplaying" class="carousel slide my-3" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../img/hist1.avif" class="d-block w-100" alt="hist1">
+    </div>
+    <div class="carousel-item">
+      <img src="../img/hist2.jpg" class="d-block w-100" alt="hist2">
+    </div>
+    <div class="carousel-item">
+      <img src="../img/hist3.jpg" class="d-block w-100" alt="hist3">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        Trama
+      </button>
+    </h2>
+    <div id="flush-collapseOne" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body"><p class="text-just">En la mañana del 23 de octubre de 2077, un padre se contempla en el espejo empañado y reflexiona que la guerra nunca cambia. Su esposa le insta a dejar de monopolizar el espejo. El jugador puede asumir el papel de la madre o el padre según prefiera. El protagonista recorre su hogar y conversa con su Sr. Handy, Codsworth. Un representante de la Corporación Vault-Tec llega y anuncia que debido a las contribuciones de su familia al país, han sido seleccionados para ser admitidos en el Refugio local, el Refugio 111. El protagonista decide corroborar la información. Después de la partida del representante, Shaun llora y su padre hace girar un móvil sobre su cuna para calmarlo pero mientras esto sucede la familia sintoniza una transmisión de televisión que confirma el bombardeo de Estados Unidos. Las sirenas comienzan a sonar en Sanctuary Hills, llevando a todos los residentes al Refugio local, pero solo aquellos con acceso aprobado pueden atravesar una puerta de seguridad. <br><br> El protagonista desciende al Refugio segundos antes de que ocurra la explosión. Dentro, los nuevos residentes son recibidos por el supervisor del Refugio 111, se les entrega su vestimenta de supervivencia y un médico los invita a ingresar a una  supuesta cámara de descontaminación y despresurización. Tras lo que parece ser un breve lapso dentro de la cápsula, el protagonista observa cómo un hombre misterioso abre la cápsula de su cónyuge e intenta llevarse a Shaun. El cónyuge se resiste, y el hombre lo asesina antes de llevarse al bebé. Luego, dirige la mirada al protagonista y lo denomina como el "respaldo" antes de marcharse. <br><img src="/img/vault11.jpg" alt="Logo" width="70%" height="auto" class="my-2"> Después de otro breve periodo, la cápsula se abre y se revela que en realidad estaban dentro de una cámara criogénica, mientras que los otros residentes perecieron asfixiados en sus cápsulas. El protagonista lamenta la pérdida de su cónyuge, toma su anillo de bodas y promete venganza. Sale del Refugio, infestado de cucarachas gigantes, y comprende que es el Único Superviviente. De regreso en la superficie, observa las ruinas de Sanctuary Hills y Codsworth le informa que han transcurrido 210 años desde aquella fatídica mañana. <br><br> Tras investigar el vecindario sin hallar rastro de Shaun, se enteran de que los supervivientes podrían encontrarse en Concord, por lo que se dirigen allí y conocen a Preston Garvey de los Minutemen de Commonwealth. Les sugiere que Diamond City podría proporcionarles pistas y al llegar, se topan con Piper Wright, una periodista vetada en la ciudad por especular en un artículo sobre la posibilidad de que el alcalde fuera un sintético. Piper utiliza al Único Superviviente para volver a ingresar a la ciudad, donde conocen a Nick Valentine, un amistoso detective sintético que ha sido autorizado a residir en ella. Nick alienta al protagonista a investigar a Conrad Kellogg, el principal sospechoso del secuestro de Shaun. <br><br> Al rastrear un cigarro en la casa de Kellogg, Dogmeat los lleva a Fort Hagen, donde el protagonista da muerte a Kellogg. Al salir, se encuentran con un dirigible de la Hermandad de Acero en el Aeropuerto de Boston, donde pueden obtener información sobre el grupo y, posiblemente, unirse a ellos. Si lo hacen, el protagonista descubre que el Paladín Danse era un sintético sin saberlo y debe decidir si dejarlo en libertad o ejecutarlo por orden de Arthur Maxson. Kellogg resulta ser un cyborg, y un dispositivo conectado a su cerebro permite al protagonista sumergirse en sus recuerdos con ayuda de la Doctora Amari en el Memory Den. Allí, descubren la verdad sobre el Instituto y la teletransportación. <br><br> Los recuerdos de Kellogg y el asesoramiento de Amari indican que el protagonista debe localizar a Brian Virgil, un científico del Instituto que escapó al Mar Radiactivo. Virgil informa al protagonista sobre la necesidad de obtener un "chip de corredor" para la teletransportación, lo que lleva a una misión para eliminar a un corredor, Z2-47. Virgil sugiere al protagonista buscar al Ferrocarril, una facción de liberación sintética, utilizando el Freedom Trail, un sendero de ladrillos rojos en las calles de Boston. Liderados por Desdemona, el Ferrocarril podría ofrecer ayuda, aunque insisten en mantener su ubicación en secreto. <br><img src="/img/father.avif" alt="Logo" width="70%" height="auto" class="my-2">Con la ayuda de los Minutemen, la Hermandad o el Ferrocarril, el protagonista construye un teletransportador para ingresar al Instituto, donde finalmente se reúne con Shaun. Sin embargo, el encuentro no es lo que esperaban, ya que descubren que el "Shaun" presente es en realidad un sustituto y que el verdadero Shaun es ahora el anciano líder del Instituto lo que le da al protagonista la oportunidad de explorar las instalaciones y aprender sobre las complejidades del Instituto, pero también descubre sus fallos y limitaciones. Después de una serie de eventos, se enfrenta a decisiones difíciles y a la necesidad de tomar partido en un conflicto entre diferentes facciones, mientras busca respuestas sobre el destino de su hijo y el papel del Instituto en todo esto.
+      </p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        Finales
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body"><p class="text-just">Fallout 4 cuenta con cuatro finales principales, uno para cada facción principal, con algunas variaciones en las relaciones entre las facciones involucradas. Por ejemplo, es posible completar el final de los Minutemen manteniendo vivas tanto la Hermandad del Acero como el Ferrocarril, pero destruyendo el Instituto. Se pueden combinar las decisiones que se toman hacia cualquier final en particular, ya que no todas las misiones de facción necesariamente hacen que las de otras fracasen.</p> </div>
+    </div>
+  </div>
+  </div>
+</div>
+

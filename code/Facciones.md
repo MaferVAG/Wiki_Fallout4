@@ -1,0 +1,102 @@
+---
+layout: layout-post.njk
+title: Facciones
+description: Facciones dentro del juego
+---
+
+# {{ title }}
+<p class="text-just">
+En Fallout 4, el jugador se encuentra inmerso en un mundo postapocalíptico lleno de facciones con ideologías y objetivos diversos. Estas facciones, cada una con su propia visión del futuro del Commonwealth, ofrecen al jugador la oportunidad de tomar decisiones que afectarán no solo el destino de su personaje, sino también el curso de la historia en esta tierra desolada.
+</p>
+
+<p class="text-just">
+Unirse a ciertas facciones representan diferentes visiones del futuro del Commonwealth, y el jugador se encuentra en medio de un conflicto complejo en el que deben tomar decisiones difíciles que afectarán el destino de la región. Con múltiples finales posibles y ramificaciones en la historia basadas en las elecciones del jugador, Fallout 4 ofrece una experiencia narrativa rica y dinámica en la que las facciones desempeñan un papel central en el desarrollo de la trama y el mundo del juego. Existen cuatro facciones principales de las cuales se hablará a continuación.
+</p>
+
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        La Hermandad de Acero
+      </button>
+    </h2>
+    <div id="flush-collapseOne" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+      <section class="row">
+      <article class="col-12 col-md-6">
+        <img src="../img/hermandadAcero.webp" alt="hermandadAcero" width="90%" height="auto" class="my-2">
+      </article>
+      <article class="col-12 col-md-6">
+      <p class="text-just">Fundada originalmente en California tras la Gran Guerra, la Hermandad del Acero se ha convertido en una orden militarista dedicada a preservar la tecnología avanzada y proteger a la humanidad de las amenazas percibidas. Dirigidos por el joven pero decidido Elder Arthur Maxson, la Hermandad del Acero ha establecido su presencia en el Commonwealth, desplegando su impresionante dirigible conocido como el Prydwen sobre Boston. Desde esta imponente nave, la Hermandad lucha contra los peligros que considera una amenaza para la humanidad, incluidos los sintéticos del Instituto y otras formas de tecnología avanzada que considera demasiado peligrosas para existir.</p>
+      </article>
+      </section>
+      <p class="text-just">Esta facción sigue un estricto código de honor y disciplina, con una jerarquía militar bien definida y una devoción absoluta a sus ideales. Consideran que su deber es proteger a la humanidad de las amenazas que la acechan, y están dispuestos a utilizar cualquier medio necesario para lograr este objetivo.</p>
+      <p class="text-just">Sin embargo, la Hermandad del Acero también ha sido objeto de críticas y controversias. Algunos ven su enfoque militarista como autoritario y opresivo, mientras que otros cuestionan su actitud hacia la tecnología y la libertad individual. Su desconfianza hacia los sintéticos del Instituto y su deseo de controlar y regular toda la tecnología avanzada del Commonwealth han llevado a conflictos con otras facciones, incluida la Railroad y, en cierta medida, el Instituto.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        El Instituto
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+<section class="row">
+      <article class="col-12 col-md-6">
+        <img src="../img/elInstituto.webp" alt="elInstituto" width="90%" height="auto" class="my-2">
+      </article>
+      <article class="col-12 col-md-6">
+      <p class="text-just">Representada como una sociedad secreta y avanzada científicamente que opera desde las profundidades del Commonwealth. Fundado en 2110 por sobrevivientes del Instituto de Tecnología del Commonwealth y sus descendientes, el Instituto se considera a sí mismo como un bastión de conocimiento y prosperidad en un mundo devastado por la guerra nuclear. Esta facción es una maravilla tecnológica que ha logrado avances impresionantes en campos como la ingeniería genética, la inteligencia artificial y la teleportación además de que opera con un alto nivel de secreto y exclusividad.</p>
+      </article>
+      </section>
+      <p class="text-just"> Su mayor logro es la creación de los "sintéticos", androides indistinguibles de los humanos reales. Estos sintéticos son utilizados en una variedad de roles, desde trabajadores hasta espías y soldados.</p>
+      <p class="text-just">Sin embargo, a pesar de sus logros tecnológicos, el Instituto está envuelto en controversia y conflicto. Su falta de transparencia y su aparente indiferencia hacia las vidas humanas han generado desconfianza entre otras facciones del Commonwealth, como la Hermandad del Acero y la Railroad. Además, su desprecio hacia los sintéticos que han desarrollado ha llevado a enfrentamientos con aquellos que buscan proteger y liberar a estas criaturas, como la Railroad. El jugador tiene la oportunidad de interactuar con el Instituto de diversas maneras, desde aliarse con ellos y ayudarles en sus experimentos y misiones, o pueden oponerse a ellos y trabajar con otras facciones para derrocarlos.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+        La Railroad
+      </button>
+    </h2>
+    <div id="flush-collapseThree" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+<section class="row">
+      <article class="col-12 col-md-6">
+        <img src="../img/railroad.webp" alt="railRoad" width="90%" height="auto" class="my-2">
+      </article>
+      <article class="col-12 col-md-6">
+      <p class="text-just">Es una de las facciones más intrigantes y humanitarias en el mundo post-apocalíptico de Fallout 4. Conocida por su misión de liberar a los sintéticos del yugo del Instituto, la Railroad opera en secreto desde las sombras del Commonwealth, luchando por la libertad y la igualdad de derechos para estas criaturas sintéticas. Fundada en el antiguo "Ferrocarril Subterráneo" de la era pre-guerra, es una red clandestina de activistas y tecnólogos dedicados a ayudar a los sintéticos a escapar de la opresión del Instituto.</p>
+      </article>
+      </section>
+      <p class="text-just">Su nombre deriva del sistema de transporte clandestino que ayudaba a los esclavos a escapar hacia la libertad durante la época de la esclavitud en Estados Unidos. La ideología central de la Railroad gira en torno a la creencia de que los sintéticos son seres conscientes y merecen los mismos derechos que los humanos. Consideran que el Instituto, al tratar a los sintéticos como meras máquinas, está perpetuando una forma de esclavitud y opresión que debe ser detenida a toda costa.</p>
+      <p class="text-just">Sin embargo, la Railroad no es solo una organización altruista; también es una fuerza combativa que no duda en enfrentarse al Instituto y a otras amenazas que se interpongan en su camino ya que sus agentes son hábiles en el combate y están entrenados para infiltrarse en instalaciones enemigas y llevar a cabo operaciones encubiertas para alcanzar sus objetivos. La Railroad es una facción única en el mundo de Fallout 4, ofreciendo una perspectiva fresca y humanitaria sobre los complejos temas de la inteligencia artificial y la ética en la era post-apocalíptica. Su lucha por la libertad y la igualdad resuena con muchos jugadores y añade una capa adicional de profundidad y complejidad al rico universo de Fallout.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+        Los Minutemen
+      </button>
+    </h2>
+    <div id="flush-collapseFour" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+<section class="row">
+      <article class="col-12 col-md-6">
+        <img src="../img/minutemen.png" alt="Minutemen" width="90%" height="auto" class="my-2">
+      </article>
+      <article class="col-12 col-md-6">
+      <p class="text-just">Son una facción icónica en el mundo de Fallout 4, representando la esperanza y la autodeterminación en un Commonwealth asolado por el caos y la anarquía. Fundada en los principios de la libertad y la protección mutua, esta milicia ciudadana se erige como un faro de esperanza para los habitantes del yermo, ofreciendo seguridad y estabilidad en tiempos de incertidumbre. La historia de los Minutemen se remonta a los días previos a la Gran Guerra, cuando los primeros colonos de Massachusetts formaron una milicia local para protegerse de las amenazas externas.</p>
+      </article>
+      </section>
+      <p class="text-just">Con el tiempo, esta milicia evolucionó para convertirse en los Minutemen, una organización dedicada a la defensa de la libertad y la justicia en el Commonwealth. El lema de los Minutemen, "En cualquier momento, en cualquier lugar", refleja su compromiso de estar siempre listos para defender a los inocentes y luchar contra la tiranía dondequiera que se encuentre. Sus miembros son hombres y mujeres comunes que se han unido para hacer frente a los peligros del yermo, armados con el valor y la determinación necesarios para enfrentarse a cualquier desafío.</p>
+      <p class="text-just">La principal base de operaciones de los Minutemen es el Fuerte Independence, una antigua fortaleza militar situada en el norte de Boston y una de las características más distintivas de los Minutemen es su enfoque en la construcción y fortificación de asentamientos. A lo largo del juego, el jugador puede reclutar colonos, construir estructuras defensivas y establecer una red de asentamientos en todo el Commonwealth, creando refugios seguros y prósperos para los supervivientes. En un mundo devastado por la guerra y la desesperación, los Minutemen son una luz de esperanza que brilla en la oscuridad, inspirando a otros a levantarse y luchar por un futuro mejor.</p>
+      </div>
+    </div>
+  </div>
+</div>
+

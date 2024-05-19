@@ -1,0 +1,85 @@
+---
+layout: layout-post.njk
+title: Modo Supervivencia en Fallout 4
+description: Información acerca del modo de juego supervivencia
+---
+
+# {{ title }}
+
+<section class="row">
+<article class="col-12 col-md-6">
+<p class="text-just">En el vasto y peligroso mundo post-apocalíptico de Fallout 4, los jugadores tienen la opción de enfrentar un desafío adicional: el Modo Supervivencia. Este modo transforma por completo la experiencia de juego al introducir una serie de restricciones y características que hacen que la supervivencia sea mucho más difícil y realista. Desde la gestión de recursos hasta el combate táctico, el Modo Supervivencia ofrece una experiencia intensamente inmersiva que obliga a los jugadores a pensar cuidadosamente en cada decisión que toman.</p>
+<p class="text-just">El Modo Supervivencia se puede activar desde el menú de opciones antes de comenzar una nueva partida, una vez activado, no se puede desactivar libremente.</p>
+</article>
+<article class="col-12 col-md-6">
+<img src="../img/supervivencia1.jpg" class="my-3" alt="ModoSupervivencia" width="85%">
+</article>
+</section>
+<p class="text-just">Desactivar el Modo Supervivencia eliminará permanentemente la opción de volver a activarlo para ese archivo de guardado específico. Una de las características más significativas de este modo de juego es la desactivación de los puntos de guardado automáticos y manuales, los jugadores ya no pueden guardar el juego cuando lo deseen; en su lugar, deben encontrar camas, colchones o sacos de dormir para dormir y guardar su progreso. Además, la función de guardado de salida sigue disponible, pero solo crea un guardado temporal que se borra automáticamente al cargarlo.</p>
+
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        Viajes rápidos y navegación por el mapa
+      </button>
+    </h2>
+    <div id="flush-collapseOne" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+      <p class="text-just">En el Modo Supervivencia, la función de viaje rápido está completamente desactivada, con la excepción de entrar en el Instituto, siempre y cuando esta facción esté disponible como una opción. Sin embargo, ser miembro del Instituto no permite evitar la eliminación del viaje rápido, ya que el único punto de teletransporte hacia afuera son las ruinas del C.I.T. Por lo tanto, los jugadores deben planificar cuidadosamente sus viajes y ser conscientes de la distancia que deben recorrer para llegar a su destino. Además de la eliminación del viaje rápido, este también restringe significativamente la funcionalidad del radar del jugador. La detección de ubicaciones de interés se reduce drásticamente a sólo unos pocos metros, lo que obliga a los jugadores a explorar más a fondo para descubrir puntos de interés en el mapa. Además, la detección de NPCs en el radar, ya sean hostiles o amistosos, se elimina por completo.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        Combate
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+      <p class="text-just">Una de las principales modificaciones en el combate es el aumento en la fuerza de ataque y la resistencia de los enemigos. En comparación con la dificultad "Muy Difícil", el daño infligido por los enemigos se incrementa considerablemente, lo que requiere que los jugadores sean más tácticos y estratégicos en sus enfrentamientos. Aunque el daño saliente del jugador se incrementa en términos absolutos, este aumento es menor en comparación con el incremento en el daño infligido por los enemigos. Además del aumento en la fuerza y la resistencia de los enemigos, la frecuencia de encuentro con enemigos de nivel superior se ha incrementado lo que significa que los jugadores pueden encontrarse con enemigos más poderosos con mayor regularidad. Otro cambio importante es la ralentización en la tasa de curación de los objetos de ayuda, lo que limita la capacidad de los jugadores para recuperar salud durante el combate. Esto obliga a los jugadores a ser más cautelosos y tácticos en sus estrategias de combate, y a depender más de la planificación y la preparación previa a los enfrentamientos.</p>
+        <img src="../img/supervivencia5.gif" class="mt-1 mb-3" width="75%" alt="Supervivencia2">
+      <p class="text-just">A pesar de los desafíos adicionales en el combate, los jugadores son recompensados con el doble de puntos de experiencia, lo que les permite avanzar más rápidamente en el juego y desbloquear nuevas habilidades y mejoras. Además, se introduce un nuevo perk llamado Adrenalina, que aumenta el daño infligido por el Sole Survivor en un 50% después de matar a cada cinco enemigos.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+        Salud y mantenimiento del personaje
+      </button>
+    </h2>
+    <div id="flush-collapseFour" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+    <section class="row">
+      <article class="col-12 col-md-6">
+        <img src="../img/barrigaPlomo.webp" class="mt-1" width="75%" alt="Supervivencia3">
+      </article>
+      <article class="col-12 col-md-6">
+      <p class="text-just">En el Modo Supervivencia de Fallout 4, el jugador  debe cuidar su bienestar de manera constante para sobrevivir, esto implica mantenerse hidratado, comer periódicamente y tener un ciclo regular de sueño. El fracaso en gestionar el bienestar del personaje resultará en efectos negativos, como Fatiga, Hambre y Sed, lo que reduce los AP máximos y aumenta el riesgo de contraer una enfermedad.</p> 
+      </article>
+    </section>
+      <p class="text-just">El jugador debe asegurarse de beber agua regularmente para mantenerse hidratado y consumir alimentos para mantenerse nutrido. La deshidratación y la desnutrición pueden llevar a la fatiga y debilitar al personaje, lo que lo hace más vulnerable ante los peligros del yermo. Además es crucial que el personaje duerma regularmente para mantener un ciclo de sueño saludable ya que la falta de sueño adecuado puede afectar negativamente la capacidad del personaje para recuperar energía y funcionar correctamente durante el día pero dormir en lugares de baja calidad, como sacos de dormir o colchones improvisados, puede aumentar el riesgo de enfermedad debido a la falta de descanso adecuado.</p> 
+    </div>
+    </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed ac" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+        Riesgo de enfermedades
+      </button>
+    </h2>
+    <div id="flush-collapseFive" class="accordion-collapse collapse ac" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+    <section class="row">
+      <article class="col-12 col-md-6">
+      <p class="text-just">En el Modo Supervivencia de Fallout 4, el riesgo de contraer enfermedades es una preocupación constante para el personaje del jugador. A diferencia del hambre y la sed, el riesgo de enfermedad se ve afectado por una variedad de factores y exposiciones, y su gestión adecuada es crucial para la supervivencia. Además de que la radiación es una constante en el mundo de Fallout 4 por lo que el jugador debe tener extrema precaución.</p> 
+      </article>
+      <article class="col-12 col-md-6">
+        <img src="../img/supervivencia4.gif" class="mt-1" width="100%" alt="Supervivencia4">
+      </article>
+    </section>
+      <p class="text-just">El riesgo de enfermedad se calcula utilizando un porcentaje base mínimo (y máximo) que se incrementa mediante un valor aditivo basado en la categoría del alimento o evento de exposición involucrado. Los eventos de alto riesgo (como las mordeduras de criaturas y el consumo de químicos) también desencadenan una verificación inmediata del riesgo de enfermedad, mientras que otros eventos simplemente acumulan riesgo. Este también se ve afectado por la fatiga general del personaje, que es una media ponderada del hambre, la sed y el sueño. La fatiga aumenta el riesgo de enfermedad, por lo que es importante minimizar todos estos factores antes de dormir.</p> 
+    </div>
+    </div>
+  </div>

@@ -4,24 +4,27 @@ title: Página de inicio
 description: Meta descripción de la página de inicio
 ---
 
-<h1>{{ title }}</h1>
-<p>
-  Hola, este es un <i>starter project</i> minimalista para crear sitios estáticos con <b><i>11ty</i></b> y desplegarlos en <i>GitHub Pages</i>.
+<h1>Acerca de esta Página</h1>
+<p class="text-just mx-5">
+  Dentro de esta página podrás encontrar una pequeña wiki acerca del famoso juego Fallout 4.
 </p>
-<div>
-  <img src="/img/eleventy.svg" alt="Eleventy">
-  <h2>+</h2>
-  <img src="/img/github.svg" alt="GitHub">
-</div>
 <hr>
-<h2>{{ site.message }}</h2>
-<p>
-  Para sacarle mayor provecho a este <i>starter project</i>, te sugiero revisar los siguientes enlaces:
-</p>
-<ul>
-  {% for link in site.linksDoc %}
-    <li>
-      <a href="{{ link.url }}" target="_blank">{{ link.text | safe }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="card m-auto card text-bg-dark card border-warning mb-3" style="width: 22rem;" >
+  <img src="/img/Portada_juego.jpg" class="card-img-top" alt="Portada_juego">
+  <div class="card-body">
+    <h5 class="card-title">Fallout 4</h5>
+    <p class="card-text">Fallout 4 es un RPG de mundo abierto desarrollado por Bethesda para PlayStation 4, Xbox One y PC. La saga de juegos de rol y acción en mundo postapocalíptico en su entrega más ambiciosa, ofreciendo un mundo hostil, bello y lleno de historias y sorpresas por descubrir en el que sumergirnos durante cientos de horas.</p>
+  </div>
+  <ul class="list-group list-group-flush ">
+    <li class="list-group-item text-bg-dark"><b>Desarrollador: </b>Bethesda Game Studios</li>
+    <li class="list-group-item text-bg-dark"><b>Distribuidor: </b>Bethesda Softworks</li>
+    <li class="list-group-item text-bg-dark"><b>Lanzamiento: </b>10 Noviembre de 2015</li>
+    <li class="list-group-item text-bg-dark"><b>Motor: </b>Creation Engine</li>
+    <li class="list-group-item text-bg-dark"><b>Clasificación: </b>PEGI 18</li>
+    <li class="list-group-item text-bg-dark"><b>Plataformas: </b>Microsoft Windows, Playstation, Xbox.</li>
+  </ul>
+  <div class="card-body">
+    <a href="https://fallout.bethesda.net/es/games/fallout-4" class="official-link">Official Page</a>
+    <a href="https://store.steampowered.com/agecheck/app/377160/?l=spanish" class="steam-link">Steam</a>
+  </div>
+</div>

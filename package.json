@@ -1,22 +1,22 @@
 {
-  "name": "starter-project-eleventy-github-pages",
+  "name": "Wiki_Fallout",
   "version": "1.0.0",
   "description": "Starter Project para crear SSGs con 11ty y desplegarlos en GitHub Pages",
-  "main": ".eleventy.js",
+  "main": ".eleventy.jfs",
   "scripts": {
     "install": "npm install @11ty/eleventy --save-dev",
     "start": "npx @11ty/eleventy --serve --port=7777",
     "clean": "rm -rf docs",
     "deploy": "npx @11ty/eleventy --pathprefix=/",
-    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/subdirectory/"
+    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/Wiki_Fallout/"
   },
   "keywords": [
     "11ty",
     "eleventy",
     "github pages",
-    "jonmircha"
+    "MaferVag"
   ],
-  "author": "Jonathan MirCha <jonmircha@gmail.com>",
+  "author": "Mafer Vasquez <fvag0702@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"

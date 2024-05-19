@@ -1,23 +1,30 @@
 * {
   box-sizing: border-box;
 }
+.share-tech-mono-regular {
+  font-family: "Share Tech Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
 
 body {
   margin: 0 auto;
+  background-color: rgb(27, 29, 34);
   padding: 1rem;
   max-width: 800px;
   min-height: 100vh;
-  border: medium solid red;
+  border: medium solid darkgoldenrod;
   text-align: center;
-  font-family: system-ui, sans-serif;
+  font-family: "Share Tech Mono";
+  color: white;
 }
 
 a {
-  color: #1873a5;
+  color: #ffe712;
   transition: all 0.3s ease-out;
 
   &:hover {
-    color: red;
+    color: darkgoldenrod;
   }
 }
 
@@ -36,11 +43,29 @@ li {
   text-align: left;
 }
 
+.ac
+{
+background-color: rgb(27, 29, 34);
+color: white;
+border: thin solid darkgoldenrod;
+}
+
+.text-just
+{
+  text-align: justify;
+
+}
+
+.text-st
+{
+  text-align: start;
+}
 .menu {
   width: 100%;
   max-width: 480px;
   margin: 0 auto;
-  border: thin solid red;
+  border: medium solid darkgoldenrod;
+  
 
   ul {
     margin: 0;
@@ -53,4 +78,6 @@ li {
   li {
     list-style: none;
   }
+
 }
+
