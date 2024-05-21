@@ -43,6 +43,11 @@ li {
   text-align: left;
 }
 
+.filtro
+{
+  display: none;
+}
+
 .ac
 {
 background-color: rgb(27, 29, 34);
